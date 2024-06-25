@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bg{
+  background-color: black;
+  padding: 5%;
+}
+.container{
+  background-color: #3CB267;
+  color: black;
+  padding: 50px;
+  border-radius: 5px;
+}
+.input{
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+.button{
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: black;
+  color: white;
+  margin-top: 10px;
+}
